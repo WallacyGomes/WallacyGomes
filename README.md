@@ -1,7 +1,7 @@
 ### Olá, Mundo! 👋
 - 👨‍💻 Atualmente não estou trabalhando com programação, apenas estudando!
-- 🐍 Estou aprendendo Python.
-- 👍 Quero me especializar em Python e Django, para trabalhar com desenvolvimento web.
+- 🙇‍♂️ Aprendendo HTML e CSS.
+- 👍 Quero me especializar em HTML e CSS e JavaScript, para trabalhar com desenvolvimento web.
 - 💡  "O insucesso é apenas uma oportunidade para recomeçar com mais inteligência". - Henry Ford.
 
 <div>
