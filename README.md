@@ -1,6 +1,6 @@
 ### Olá, Mundo! 👋
 - 👨‍💻 Atualmente não estou trabalhando com programação, apenas estudando!
-- 🙇‍♂️ Aprendendo HTML e CSS.
+- 🙇‍♂️ Aprendendo HTML5 e CSS3.
 - 👍 Quero me especializar em HTML5, CSS3 e JavaScript, para trabalhar com desenvolvimento web.
 - 💡  "O insucesso é apenas uma oportunidade para recomeçar com mais inteligência". - Henry Ford.
 
