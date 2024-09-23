@@ -1,7 +1,7 @@
 ### Olá, Mundo! 👋
-- 👨‍💻 Atualmente não estou trabalhando com programação, apenas estudando!
-- 🙇‍♂️ Aprendendo JavaScript e React.
-- 👍 Quero me especializar em desenvolvimento de front-end.
+- 👨‍💻 Analista consultor.
+- 🙇‍♂️ Aprendendo Python, Docker e Pentest.
+- 👍 Cursando faculdade de cirbersegurança.
 - 💡  "O insucesso é apenas uma oportunidade para recomeçar com mais inteligência". - Henry Ford.
 
 <div>
