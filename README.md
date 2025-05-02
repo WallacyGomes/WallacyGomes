@@ -1,7 +1,6 @@
 ### Olá, Mundo! 👋
 - 👨‍💻 Analista consultor.
-- 🙇‍♂️ Aprendendo Python, Docker e Pentest.
-- 👍 Cursando faculdade de cibersegurança.
+- 🙇‍♂️ Aprendendo AWS, K8s, Otel.
 - 💡  "O insucesso é apenas uma oportunidade para recomeçar com mais inteligência". - Henry Ford.
 
 <div>
