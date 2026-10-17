@@ -1,22 +1,35 @@
-### Olá, Mundo! 👋
-- 👨‍💻 Analista consultor.
-- 🙇‍♂️ Aprendendo AWS, K8s, Otel.
-- 💡  "O insucesso é apenas uma oportunidade para recomeçar com mais inteligência". - Henry Ford.
+ 
+<div align="center">
 
-<div>
-  <a href="https://github.com/WallacyGomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WallacyGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallacyGomes&layout=compact&langs_count=16&theme=dark"/>
+# Wallacy Gomes
+
+**Analista Consultor especialista em observabilidade**
+
+*Não basta saber que um sistema falhou. É preciso entender onde, por quê e qual foi o impacto.*
+
+[LinkedIn](https://www.linkedin.com/in/wallacy-gomes-63342b204/) · [Repositórios](https://github.com/WallacyGomes?tab=repositories)
+
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+---
 
-##
+### Sobre mim
 
-<div>
-  <a href="https://www.linkedin.com/in/wallacy-gomes-63342b204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Atuo com **observabilidade de aplicações e infraestrutura**, conectando desenvolvimento e operações para tornar sistemas mais compreensíveis e facilitar a investigação de incidentes.
 
+Meu foco está em transformar **métricas, logs e traces** em informações úteis para identificar gargalos, investigar falhas e acompanhar a experiência de quem usa os sistemas.
 
+---
+
+### Tecnologias e ferramentas
+
+| Área | Tecnologias |
+| --- | --- |
+| **Observabilidade** | New Relic, OpenTelemetry, Prometheus, Grafana |
+| **Infraestrutura e cloud** | Kubernetes, Docker, AWS, Linux, Windows |
+| **Desenvolvimento e automação** | Python, JavaScript, Shell Script |
+
+---
+
+**Observabilidade, para mim, é reduzir o tempo entre perceber um problema e entender o que fazer a respeito.**
+  
