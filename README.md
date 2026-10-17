@@ -31,5 +31,5 @@ Meu foco está em transformar **métricas, logs e traces** em informações úte
 
 ---
 
-**Observabilidade, para mim, é reduzir o tempo entre perceber um problema e entender o que fazer a respeito.**
+**Observabilidade, para mim, é correlacionar métricas, logs e traces para entender onde e quando ocorreu um problema.**
   
