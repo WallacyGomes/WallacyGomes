@@ -34,7 +34,5 @@ Meu foco está em transformar **métricas, logs e traces** em informações úte
 </div>
 
 ---
-<div align="center">
 **Observabilidade, para mim, é correlacionar métricas, logs e traces para entender onde e quando ocorreu um problema.**
-</div>
   
