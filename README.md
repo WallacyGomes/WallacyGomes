@@ -13,15 +13,11 @@
 
 ---
 
-<div align="center">
-
 ### Sobre mim
 
 Atuo com **observabilidade de aplicações e infraestrutura**, conectando desenvolvimento e operações para tornar sistemas mais compreensíveis e facilitar a investigação de incidentes.
 
 Meu foco está em transformar **métricas, logs e traces** em informações úteis para identificar gargalos, investigar falhas e acompanhar a experiência de quem usa os sistemas.
-
-</div>
 
 ---
 
